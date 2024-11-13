@@ -1,0 +1,38 @@
+Service Provider
+
+Browse Cyber Security Data Sets and Train & Test, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Cyber Threat Type, 
+View Cyber Threat Type Ratio, 
+Download Cyber Threat Predicted Data Sets, 
+View Cyber Threat Type Ratio Results, 
+View All Remote Users.
+
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT CYBER THREAT TYPE, 
+VIEW YOUR PROFILE. 
+
+
+
+
+Members
+
+Name_of_Covered_Entity,
+State,
+Individuals_Affected,
+Date_of_Breach,
+Location_of_Breached_Information,
+Date_Posted_or_Updated,
+breach_start,
+year,
+Source_Ip,
+Destination_Ip,
+Prediction.
+
+
