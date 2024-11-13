@@ -1,0 +1,41 @@
+Cyber Threat Predictive Analytics for Improving Cyber Supply Chain Security
+
+Cyber Threat Intelligence; Machine Learning; Cyber Supply Chain; Predictive Analytic; Cyber Security; Tactic Techniques Procedures
+
+
+IEEE Access on machine learning,Issue Date:June.2021
+
+
+Cyber Threat Analysis & Threat Predictions -- Vulnerability,
+
+
+Cyber_Threat
+
+cyber_threat
+
+
+
+'Theft':0,
+          'Loss':1,
+          'Disclosure':2,
+          'Hacking':3,
+          'Improper Disposal':4
+
+
+Cyber_model
+
+
+Name_of_Covered_Entity
+State
+Individuals_Affected
+Date_of_Breach
+Location_of_Breached_Information
+Date_Posted_or_Updated
+breach_start
+year
+Source_Ip
+Destination_Ip
+Prediction
+
+
+Cyber_model,detection_ratio,detection_accuracy
